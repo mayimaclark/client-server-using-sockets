@@ -1,5 +1,6 @@
 """
 Polynomial manipulations.
+
 Polynomials are represented as lists of coefficients, 0 order first.
 """
 
